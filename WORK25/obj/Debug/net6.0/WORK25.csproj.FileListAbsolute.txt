@@ -1,0 +1,6 @@
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM4\WORK25\obj\Debug\net6.0\WORK25.GlobalUsings.g.cs
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM4\WORK25\obj\Debug\net6.0\WORK25.csproj.AssemblyReference.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM4\WORK25\obj\Debug\net6.0\WORK25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM4\WORK25\obj\Debug\net6.0\WORK25.AssemblyInfoInputs.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM4\WORK25\obj\Debug\net6.0\WORK25.AssemblyInfo.cs
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM4\WORK25\obj\Debug\net6.0\WORK25.csproj.CoreCompileInputs.cache
